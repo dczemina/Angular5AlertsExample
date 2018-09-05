@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  font-family: sans-serif;
+}
+
+.custom-flex {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.text-white,
+.text-light {
+  color: #fff !important;
+}
